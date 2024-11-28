@@ -1,4 +1,3 @@
-# 📃 [О нас](https://github.com/ColdRayBurn/Ready-made-projects/blob/main/README.md)
 # 🏗️ Наши проекты
 
 ## 🌍 Сайт для анализа отельного рынка  
