@@ -20,4 +20,4 @@
 🔗 **[Подробнее о проекте](https://github.com/ColdRayBurn/bivium.ru/blob/main/README.md)** 
 
 
-💼 [Связаться с нами](mailto:tnoob128@gmail.com) | 📃 [О нас](https://github.com/ColdRayBurn/Ready-made-projects/blob/main/README.md)
+## 💼 [Связаться с нами](mailto:tnoob128@gmail.com) | 📃 [О нас](https://github.com/ColdRayBurn/Ready-made-projects/blob/main/README.md)
